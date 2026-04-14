@@ -1,7 +1,7 @@
 ## 🚀 Olá, eu sou Cristian Mattos Guedes!
 ### Estudante de Engenharia de Software & Desenvolvedor Backend
 
-Sou um entusiasta de tecnologia focado em construir soluções eficientes e escaláveis. Atualmente, curso **Engenharia de Software (EAD) na Unimar** e já possuo formação técnica pela ETEC. 
+Sou um entusiasta de tecnologia focado em construir soluções eficientes e escaláveis. Atualmente, curso **Engenharia de Software na Unimar** e já possuo formação técnica pela ETEC. 
 
 🏆 **Destaque:** Fui reconhecido como o **Melhor Analista Desenvolvedor Mobile** da minha turma. Você pode conferir o registro dessa conquista [clicando aqui](https://www.linkedin.com/in/cristian-guedes-142167202/overlay/1608065206899/single-media-viewer/?profileId=ACoAADOjAgIBeRGAIlAhZjF4kFhPNrGFdT3x2io).
 

@@ -38,5 +38,5 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
 </div>
 
 ## 🐍 Minha contribuição no GitHub
-
+<img src="https://raw.githubusercontent.com/cristianmattos/cristianmattos/output/snake.svg" alt="Snake animation" />
 

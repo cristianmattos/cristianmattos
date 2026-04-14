@@ -39,4 +39,4 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
 
 ## 🐍 Minha contribuição no GitHub
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/cristianmattos/cristianmattos/output/github-contribution-grid-snake.svg)
+

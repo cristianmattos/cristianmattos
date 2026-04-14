@@ -1,4 +1,4 @@
-## 🚀 Oiii, eu sou Cristian Mattos!
+## 🚀 Olá, eu sou Cristian Mattos Guedes!
 ### Estudante de Engenharia de Software & Desenvolvedor Backend
 
 Sou um entusiasta de tecnologia focado em construir soluções eficientes e escaláveis. Atualmente, curso **Engenharia de Software (EAD) na Unimar** e já possuo formação técnica pela ETEC. 
@@ -29,20 +29,10 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
 ---
 
 ### 📫 Conecte-se comigo
+
 <div>  
-  <a href="https://discord.gg/wagxzStdcR" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a> 
-
-  <a href="mailto:cristianmattos@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-
-  <a href="https://www.linkedin.com/in/cristian-guedes-142167202/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-
-  <a href="https://wa.me/SEUNUMERO" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+  <a href="https://discord.gg/SEU_CONVITE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:cristianguedes1402@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/cristian-guedes-142167202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://wa.me/5511930553294" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>

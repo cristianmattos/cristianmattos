@@ -36,3 +36,7 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
   <a href="https://www.linkedin.com/in/cristian-guedes-142167202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://wa.me/5511930553294" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+## 🐍 Minha contribuição no GitHub
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/cristianmattos/cristianmattos/output/github-contribution-grid-snake.svg)

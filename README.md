@@ -37,6 +37,5 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
   <a href="https://wa.me/5511930553294" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-## 🐍 Minha contribuição no GitHub
 <img src="https://raw.githubusercontent.com/cristianmattos/cristianmattos/output/snake.svg" alt="Snake animation" />
 

@@ -15,7 +15,7 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline-block">
+<p align="left">
   <img align="center" alt="Cris-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Cris-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
   <img align="center" alt="Cris-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Cris-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+</p>
 
 ---
 

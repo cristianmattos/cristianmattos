@@ -21,8 +21,7 @@ Meu foco principal é o desenvolvimento de **APIs robustas** utilizando **TypeSc
 <img align="left" alt="Cris-Postman" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 <img align="left" alt="Cris-Arch" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
 <img align="left" alt="Cris-Docker" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="left" alt="Cris-Flutter" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-<img align="left" alt="Cris-Python" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="Cris-MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <br/>
 <br/>
 
